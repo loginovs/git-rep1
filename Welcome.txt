@@ -1,3 +1,2 @@
 print ("Welcom")
 print ("dffbbeb")
-print ("бла-бла-бла")
